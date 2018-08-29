@@ -35,7 +35,7 @@ sastrawi | High quality stemmer library for Indonesian Language (Bahasa) | PHP |
 ## Word Embedding
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-indonesian-word-embedding | A web application that demonstrates Indonesian word embedding | Python | [galuhsahid](https://github.com/galuhsahid)
+indonesian\-word\-embedding | A web application that demonstrates Indonesian word embedding | Python | [galuhsahid](https://github.com/galuhsahid)
 
 
 ##  Question Answering (Machine Comprehension)
@@ -54,11 +54,15 @@ TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Cr
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
+
 Indonesian-annotated-conll17 | CoNLL Universal Dependency Parsing | 29.64 GB |
 Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts, provided for the CoNLL 2017 Shared Task in UD Parsing. | CC BY-NC-SA 4.0 TH | [LINDAT / CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989)
+
 ID-OpinionWords | List of Opinion Words (positive/negative) in Bahasa Indonesia for Sentiment Analysis | |  |  | [masdevid](https://github.com/masdevid/ID-OpinionWords)
+
 freq-dist-id | Most Common Bahasa Words on Twitter, Wikipedia and other sources
  |  |  |  | [ardwort](https://github.com/ardwort/freq-dist-id)
+
 idn-tagged-corpus | Indonesian Manually Tagged Corpus |  |  |  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License  | [famrashel](https://github.com/famrashel/idn-tagged-corpus)
 
 
