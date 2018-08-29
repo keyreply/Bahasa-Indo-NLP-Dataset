@@ -25,7 +25,7 @@ http://compling.hss.ntu.edu.sg/who/david/slides/tokenizer.pdf
 ## Pre-trained word vectors
 https://github.com/Kyubyong/wordvectors
  
-TUFS Asian Language Parallel Corpus (TALPCo)
+## TUFS Asian Language Parallel Corpus (TALPCo)
 https://github.com/matbahasa/TALPCo
  
 ## Indonesian Word Embedding
