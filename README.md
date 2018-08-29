@@ -6,36 +6,36 @@ Always welcome for pull requests.
 
 ### Natural Language Toolkit
 
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | | MIT License (MIT) | [Sutrisno Efendi](https://pypi.org/project/bahasa/)
+bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | MIT License (MIT) | [Sutrisno Efendi](https://pypi.org/project/bahasa/)
 
 ### Sentiment Analysis
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-python-sentianalysis-id | | Python | || [yasirutomo](https://github.com/yasirutomo/python-sentianalysis-id)
+python-sentianalysis-id | Sentiment Analysis for Bahasa Indonesia | Python | | [yasirutomo](https://github.com/yasirutomo/python-sentianalysis-id)
 
 ### Part of Speech Tagging (POS Tagging)
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Open NLP | POS tagging with predefined training and test data | Java |  |  | [yohanesgultom](https://github.com/yohanesgultom/nlp-experiments)
+Open NLP | POS tagging with predefined training and test data | Java |  | [yohanesgultom](https://github.com/yohanesgultom/nlp-experiments)
 
 
 ### Named Entity Recognition
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-indonesia-ner | Named Entity Recoginition for Bahasa Indonesia | Java | | MIT License (MIT) | [yusufsyaifudin](https://github.com/yusufsyaifudin/indonesia-ner)
+indonesia-ner | Named Entity Recoginition for Bahasa Indonesia | Java | MIT License (MIT) | [yusufsyaifudin](https://github.com/yusufsyaifudin/indonesia-ner)
 
 ### Stemmer
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-sastrawi | High quality stemmer library for Indonesian Language (Bahasa) | |  | MIT License (MIT) | [sastrawi](https://github.com/sastrawi/sastrawi)
+sastrawi | High quality stemmer library for Indonesian Language (Bahasa) | PHP | MIT License (MIT) | [sastrawi](https://github.com/sastrawi/sastrawi)
 
 
 ### Word Embedding
-Library | Description | Programming Languages | Features | License | Author & Link
+Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-indonesian-word-embedding | A web application that demonstrates Indonesian word embedding | Python |  |  | [galuhsahid](https://github.com/galuhsahid)
+indonesian-word-embedding | A web application that demonstrates Indonesian word embedding | Python | [galuhsahid](https://github.com/galuhsahid)
 
 
 ###  Question Answering (Machine Comprehension)
@@ -46,7 +46,7 @@ QA | Question Answering System for Bahasa Indonesia | Java | [takin](https://git
 ## Dictionaries / Translation Pairs / Parallel Corpus
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-MALINDO_Morph | Morphological dictionary for Malay / Indonesian | English-Malay, English-Indonesian |  | CC BY-NC-SA 4.0 TH | [english](https://github.com/matbahasa/MALINDO_Morph)
+MALINDO_Morph | Morphological dictionary for Malay / Indonesian | | English-Malay, English-Indonesian  | CC BY-NC-SA 4.0 TH | [english](https://github.com/matbahasa/MALINDO_Morph)
 TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Creative Commons Attribution 4.0 International (CC BY 4.0) license | [matbahasa](https://github.com/matbahasa/TALPCo)
 
 
@@ -54,7 +54,7 @@ TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Cr
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-Indonesian-annotated-conll17 | | 29.64 GB | Description
+Indonesian-annotated-conll17 | CoNLL Universal Dependency Parsing | 29.64 GB |
 Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts, provided for the CoNLL 2017 Shared Task in UD Parsing. | CC BY-NC-SA 4.0 TH | [LINDAT / CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989)
 ID-OpinionWords | List of Opinion Words (positive/negative) in Bahasa Indonesia for Sentiment Analysis | |  |  | [masdevid](https://github.com/masdevid/ID-OpinionWords)
 freq-dist-id | Most Common Bahasa Words on Twitter, Wikipedia and other sources
