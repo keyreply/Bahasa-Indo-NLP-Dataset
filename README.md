@@ -72,7 +72,6 @@ Library | Description | License | Link
 --- | --- | --- | --- | --- | ---
 UD_Indonesian-GSD | The Indonesian UD is converted from the content head version of the universal dependency treebank v2.0 (legacy | Query text by genre, domain | CC BY-NC-SA 3.0 US | [Francis Bond](http://wn-msa.sourceforge.net/index.eng.html)
 
-
 ## Pre-trained Word Vectors 
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
