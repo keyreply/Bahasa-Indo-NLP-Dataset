@@ -1,4 +1,4 @@
-# Bahasa Indonesia Natural Language Processing (Thai NLP) Resource
+# Bahasa Indonesia Natural Language Processing (Indo NLP ) Resource
 Collection of Bahasa Indonesia (Indonesian) Natural Language Processing (NLP) software libraries, dictionaries, and corpus.
 Always welcome for pull requests.
 
