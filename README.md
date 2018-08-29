@@ -4,41 +4,41 @@ Always welcome for pull requests.
 
 ## Bahasa Indonesia NLP Libraries/Services
 
-### Natural Language Toolkit
+## Natural Language Toolkit
 
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
-bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | MIT License (MIT) | [Sutrisno Efendi](https://pypi.org/project/bahasa/)
+bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | MIT License (MIT) |[Sutrisno Efendi](https://pypi.org/project/bahasa/)
 
-### Sentiment Analysis
+## Sentiment Analysis
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
 python-sentianalysis-id | Sentiment Analysis for Bahasa Indonesia | Python | | [yasirutomo](https://github.com/yasirutomo/python-sentianalysis-id)
 
-### Part of Speech Tagging (POS Tagging)
+## Part of Speech Tagging (POS Tagging)
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Open NLP | POS tagging with predefined training and test data | Java |  | [yohanesgultom](https://github.com/yohanesgultom/nlp-experiments)
 
 
-### Named Entity Recognition
+## Named Entity Recognition
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
 indonesia-ner | Named Entity Recoginition for Bahasa Indonesia | Java | MIT License (MIT) | [yusufsyaifudin](https://github.com/yusufsyaifudin/indonesia-ner)
 
-### Stemmer
+## Stemmer
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
 sastrawi | High quality stemmer library for Indonesian Language (Bahasa) | PHP | MIT License (MIT) | [sastrawi](https://github.com/sastrawi/sastrawi)
 
 
-### Word Embedding
+## Word Embedding
 Library | Description | Programming Languages | License | Author & Link
 --- | --- | --- | --- | --- | ---
 indonesian-word-embedding | A web application that demonstrates Indonesian word embedding | Python | [galuhsahid](https://github.com/galuhsahid)
 
 
-###  Question Answering (Machine Comprehension)
+##  Question Answering (Machine Comprehension)
 Service | Description | Language | Author & Link
 --- | --- | --- | --- 
 QA | Question Answering System for Bahasa Indonesia | Java | [takin](https://github.com/takin/QA)
