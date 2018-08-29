@@ -7,7 +7,9 @@ Always welcome for pull requests.
 ## Natural Language Toolkit
 
 Library | Description | Programming Languages | License | Author & Link
+
 --- | --- | --- | --- | --- | ---
+
 bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | MIT License (MIT) |[Sutrisno Efendi](https://pypi.org/project/bahasa/)
 
 ## Sentiment Analysis
