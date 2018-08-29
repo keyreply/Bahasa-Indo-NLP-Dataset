@@ -54,8 +54,7 @@ TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Cr
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-Indonesian-annotated-conll17 | CoNLL Universal Dependency Parsing | 29.64 GB |
-Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts, provided for the CoNLL 2017 Shared Task in UD Parsing. | CC BY-NC-SA 4.0 TH | [LINDAT / CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989)
+Indonesian-annotated-conll17 | CoNLL Universal Dependency Parsing | 29.64 GB |Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts, provided for the CoNLL 2017 Shared Task in UD Parsing. | CC BY-NC-SA 4.0 TH | [LINDAT / CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989)
 ID-OpinionWords | List of Opinion Words (positive/negative) in Bahasa Indonesia for Sentiment Analysis | | | | [masdevid](https://github.com/masdevid/ID-OpinionWords)
 freq-dist-id | Most Common Bahasa Words on Twitter, Wikipedia and other sources| | | | [ardwort](https://github.com/ardwort/freq-dist-id)
 idn-tagged-corpus | Indonesian Manually Tagged Corpus | | |  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License|[famrashel](https://github.com/famrashel/idn-tagged-corpus)
@@ -64,12 +63,13 @@ idn-tagged-corpus | Indonesian Manually Tagged Corpus | | |  Creative Commons At
 ## WordNet Bahasa
 Library | Description | License | Link
 --- | --- | --- | --- 
-WordNet Bahasa | | Query text by genre, domain | MIT License (MIT)  | [UniversalDependencies](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
+WordNet Bahasa | Wordnet Bahasa, inspired by the Princeton WordNet and the Global WordNet Grid | Large scale, freely available, semantic dictionary | MIT License (MIT)  | [Francis Bond](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
 
 ## Universal Dependency Treebank Bahasa
 Library | Description | License | Link
 --- | --- | --- | --- 
-UD_Indonesian-GSD | The Indonesian UD is converted from the content head version of the universal dependency treebank v2.0 (legacy | Query text by genre, domain | CC BY-NC-SA 3.0 US | [Francis Bond](http://wn-msa.sourceforge.net/index.eng.html)
+UD_Indonesian-GSD | The Indonesian UD is converted from the content head version of the universal dependency treebank v2.0 | Query text by genre, domain | CC BY-NC-SA 3.0 US | [UniversalDependencies](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
+
 
 ## Pre-trained Word Vectors 
 Pre-trained Model | Description | Size | Dimensions | License | Link
@@ -80,7 +80,7 @@ word2vec Indonesian |  | 402MB | 300 || [Indonesian](https://drive.google.com/op
 ## Grammar Resource Framework
 Model | Description | License | Link
 --- | --- | --- | --- 
-INDRA | Indonesian Resource Grammar (INDRA) - an implemented HPSG grammar for Indonesian | [INDRA](https://github.com/davidmoeljadi/INDRA) 
+INDRA | Indonesian Resource Grammar (INDRA) - an implemented HPSG grammar for Indonesian | MIT license |[INDRA](https://github.com/davidmoeljadi/INDRA) 
 
 
 ## Not found? Try to look at another Bahasa Indonesia NLP Awesome List/Resource (Like this one)
