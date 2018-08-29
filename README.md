@@ -7,36 +7,34 @@ Always welcome for pull requests.
 ## Natural Language Toolkit
 
 Library | Description | Programming Languages | License | Author & Link
-
---- | --- | --- | --- | --- | ---
-
+--- | --- | --- | --- | --- 
 bahasa| Pre-alpha development stage NLP toolkit for Bahasa Indonesia | Python | MIT License (MIT) |[Sutrisno Efendi](https://pypi.org/project/bahasa/)
 
 ## Sentiment Analysis
 Library | Description | Programming Languages | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 python-sentianalysis-id | Sentiment Analysis for Bahasa Indonesia | Python | | [yasirutomo](https://github.com/yasirutomo/python-sentianalysis-id)
 
 ## Part of Speech Tagging (POS Tagging)
 Library | Description | Programming Languages | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 Open NLP | POS tagging with predefined training and test data | Java |  | [yohanesgultom](https://github.com/yohanesgultom/nlp-experiments)
 
 
 ## Named Entity Recognition
 Library | Description | Programming Languages | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 indonesia-ner | Named Entity Recoginition for Bahasa Indonesia | Java | MIT License (MIT) | [yusufsyaifudin](https://github.com/yusufsyaifudin/indonesia-ner)
 
 ## Stemmer
 Library | Description | Programming Languages | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 sastrawi | High quality stemmer library for Indonesian Language (Bahasa) | PHP | MIT License (MIT) | [sastrawi](https://github.com/sastrawi/sastrawi)
 
 
 ## Word Embedding
 Library | Description | Programming Languages | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 indonesian\-word\-embedding | A web application that demonstrates Indonesian word embedding | Python | [galuhsahid](https://github.com/galuhsahid)
 
 
@@ -56,37 +54,32 @@ TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Cr
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-
 Indonesian-annotated-conll17 | CoNLL Universal Dependency Parsing | 29.64 GB |
 Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts, provided for the CoNLL 2017 Shared Task in UD Parsing. | CC BY-NC-SA 4.0 TH | [LINDAT / CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989)
-
-ID-OpinionWords | List of Opinion Words (positive/negative) in Bahasa Indonesia for Sentiment Analysis | |  |  | [masdevid](https://github.com/masdevid/ID-OpinionWords)
-
-freq-dist-id | Most Common Bahasa Words on Twitter, Wikipedia and other sources
- |  |  |  | [ardwort](https://github.com/ardwort/freq-dist-id)
-
-idn-tagged-corpus | Indonesian Manually Tagged Corpus |  |  |  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License  | [famrashel](https://github.com/famrashel/idn-tagged-corpus)
+ID-OpinionWords | List of Opinion Words (positive/negative) in Bahasa Indonesia for Sentiment Analysis | | | | [masdevid](https://github.com/masdevid/ID-OpinionWords)
+freq-dist-id | Most Common Bahasa Words on Twitter, Wikipedia and other sources| | | | [ardwort](https://github.com/ardwort/freq-dist-id)
+idn-tagged-corpus | Indonesian Manually Tagged Corpus | | |  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License|[famrashel](https://github.com/famrashel/idn-tagged-corpus)
 
 
 ## WordNet Bahasa
 Library | Description | License | Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 WordNet Bahasa | | Query text by genre, domain | MIT License (MIT)  | [UniversalDependencies](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
 
 ## Universal Dependency Treebank Bahasa
 Library | Description | License | Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 UD_Indonesian-GSD | The Indonesian UD is converted from the content head version of the universal dependency treebank v2.0 (legacy | Query text by genre, domain | CC BY-NC-SA 3.0 US | [Francis Bond](http://wn-msa.sourceforge.net/index.eng.html)
 
 ## Pre-trained Word Vectors 
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
-fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
+fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.id.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.id.vec)
 word2vec Indonesian |  | 402MB | 300 || [Indonesian](https://drive.google.com/open?id=0B0ZXk88koS2KQWxEemNNUHhnTWc)
 
 ## Grammar Resource Framework
 Model | Description | License | Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 INDRA | Indonesian Resource Grammar (INDRA) - an implemented HPSG grammar for Indonesian | [INDRA](https://github.com/davidmoeljadi/INDRA) 
 
 
